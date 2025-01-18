@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anthony Baptiste and i'm a aspiring data professional</p>
+<p align="left">My name is Anthony Baptiste and i'm a aspiring data professional!</p>
 
 ###
 
