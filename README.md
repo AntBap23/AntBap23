@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently studying information technology and computer science<br>🎯 Goals: To build the greatest dashboard of all time</p>
+<p align="left">🎓 Attending Northern Illinois University<br>🎓 Major: Operations and Information Management  <br>🎓 Minor: Computer Science</p>
 
 ###
 
