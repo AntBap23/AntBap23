@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Anthony Baptiste and I'm a Student at Northern Illinois University from Chicago</p>
+<p align="left">My name is Anthony Baptiste and i'm a aspiring data professional</p>
 
 ###
 
