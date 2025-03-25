@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AntBap23/AntBap23/output/snake.svg" alt="Snake animation" />
+
 
 ###
