@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Anthony Baptiste and I'm an Information Systems Student at Northern Illinois University. As well as a IT Data Analyst Intern</h2>
+<h2 align="left">Hi! My name is Anthony Baptiste and I'm an Information Systems Student at Northern Illinois University</h2>
 
 ###
 
