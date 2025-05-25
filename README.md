@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Anthony Baptiste and I'm a Network Planning Intern and Information Systems Student/AI Researcher at Northern Illinois University</h2>
+<h2 align="left">Hi! My name is Anthony Baptiste and I'm a Network Planning Intern at Shipt and a Information Systems Student/AI Researcher at Northern Illinois University</h2>
 
 ###
 
