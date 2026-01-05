@@ -1,5 +1,5 @@
-# 💫 About Me: Student and Researcher at Northern Illinois
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me: Aspiring Data Professional and Student/Researcher at Northern Illinois
+🔭 I’m currently working on Data Projects <br>👯 I’m looking to collaborate on Any Ai Startup <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
