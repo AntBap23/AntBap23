@@ -1,5 +1,5 @@
-# 💫 About Me: Aspiring Data Professional and Student/Researcher at Northern Illinois
-🔭 I’m currently working on Data Projects and LLM Research <br>
+# About Me: Aspiring Data Professional and Student/Researcher at Northern Illinois
+I’m currently working on Data Projects and LLM Research <br>
 
 
 ## 🌐 Socials:
