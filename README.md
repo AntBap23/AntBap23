@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 - I am a Data Analytics Student at Northern Illinois University<br>- Graduating May 2026<br>- Currently working on LLM Research and Personal Data Projects<br><br> -Looking to connect with other Data Professionals<br>   in the BI development and Analytics Engineering Space
 
 
