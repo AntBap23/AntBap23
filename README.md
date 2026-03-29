@@ -36,16 +36,20 @@ Google Cloud • Azure • Docker • FastAPI • Git
 ## 🚀 Featured Work
 
 ### 🧠 GenAI Research (Published Work)
-🔗 **[View Research Repository](https://github.com/AntBap23/custom-gpt-interview-research)**  
+
+[![Research Repo](https://img.shields.io/badge/Research%20Repo-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/Qualitive-Ai-Research)  
+[![Research Platform](https://img.shields.io/badge/Research%20Platform-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/custom-gpt-interview-research)  
 
 - Co-author on research exploring **GenAI in qualitative interview analysis**
+- Built supporting system for **AI-assisted interview simulation and analysis**
 - Focus on **methodological augmentation using system dynamics**
 - Submitted to *System Dynamics Review*
 
 ---
 
 ### 📊 Enterprise BI / Analytics Engineering Project
-🔗 **[View BI Project Repository](https://github.com/AntBap23/Enterprise_BI_Project_Repo)**  
+
+[![BI Project](https://img.shields.io/badge/BI%20Project-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/Enterprise_BI_Project_Repo)  
 
 - Built an end-to-end data workflow: **ingestion → staging → marts**
 - Modeled analytics-ready datasets using **dbt + PostgreSQL**
