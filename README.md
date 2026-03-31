@@ -70,7 +70,7 @@ Google Cloud • Azure • Docker • FastAPI • Git
 
 ## 🎯 Current Focus
 
-- 📊 Power BI (PL-300 Certification Prep)  
+- 📊 Research Presentation at CURE
 - 🏗️ Analytics Engineering with dbt  
 - 📈 Strengthening SQL + Python for data roles  
 
