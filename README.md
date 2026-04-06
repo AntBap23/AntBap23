@@ -1,86 +1,112 @@
-# 👋 Anthony Baptiste
+<h1 align="center">👋 Anthony Baptiste</h1>
 
-🎓 Data Analytics Student @ Northern Illinois University  
-📅 Graduating May 2026  
+<p align="center">
+  <i>Data • Systems • AI</i>
+</p>
 
-💡 Interested in:
-- Business Intelligence & Data Analytics  
-- Analytics Engineering (dbt, SQL)  
-- Data Engineering & Scalable Data Systems
-- AI Agents & RAG Systems  
+<p align="center">
+  <img src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAd/computer-nerds.gif" width="420"/>
+</p>
 
 ---
 
-## 🌐 Connect With Me
+🎓 Data Analytics @ Northern Illinois University  
+📅 Graduating May 2026  
+
+I build data systems, not just dashboards.  
+Focused on turning raw data into scalable, decision-ready infrastructure.
+
+---
+
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-baptiste00/)  
 📧 anthonybaptiste00@gmail.com  
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Stack
 
 **Languages**  
 Python • SQL • R • C++  
 
-**Data & BI**  
+**Analytics / BI**  
 Pandas • NumPy • scikit-learn • Power BI • Tableau  
 
 **Data Engineering**  
-PostgreSQL • dbt • MongoDB • Snowflake • Apache Spark • Airflow  
+PostgreSQL • dbt • MongoDB • Snowflake • Spark • Airflow  
 
-**Cloud & Tools**  
-Google Cloud • Azure • Docker • FastAPI • Git  
+**Cloud / Tools**  
+GCP • Azure • Docker • FastAPI • Git  
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Work
 
-### 🧠 GenAI Research (Published Work)
+### 🧠 GenAI Research
 
 [![Research Repo](https://img.shields.io/badge/Research%20Repo-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/Qualitive-Ai-Research)  
 [![Research Platform](https://img.shields.io/badge/Research%20Platform-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/custom-gpt-interview-research)  
 
-- Co-author on research exploring **GenAI in qualitative interview analysis**
-- Built supporting system for **AI-assisted interview simulation and analysis**
-- Focus on **methodological augmentation using system dynamics**
+- Co-author on research using **GenAI for qualitative interviews**
+- Built system for **AI-driven interview simulation + analysis**
+- Focus: **system dynamics + methodological augmentation**
 - Submitted to *System Dynamics Review*
 
 ---
 
-### 📊 Enterprise BI / Analytics Engineering Project
+### 📊 Enterprise BI / Analytics Engineering
 
 [![BI Project](https://img.shields.io/badge/BI%20Project-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/Enterprise_BI_Project_Repo)  
 
-- Built an end-to-end data workflow: **ingestion → staging → marts**
-- Modeled analytics-ready datasets using **dbt + PostgreSQL**
-- Designed data structures for **BI dashboards and reporting**
-- Simulated real-world enterprise data pipelines  
+- End-to-end pipeline: **ingestion → staging → marts**
+- Data modeling with **dbt + PostgreSQL**
+- Built for **BI dashboards + reporting**
+- Simulates real enterprise data workflows  
 
 ---
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="360"/>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AntBap23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+---
 
-![Streak](https://streak-stats.demolab.com?user=AntBap23&theme=tokyonight&hide_border=false)
+## 📊 Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntBap23&theme=tokyonight&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntBap23&theme=tokyonight&show_icons=true&hide_border=false"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=AntBap23&theme=tokyonight&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntBap23&theme=tokyonight&layout=compact"/>
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-- 📊 Research Presentation at CURE
-- 🏗️ Analytics Engineering with dbt  
-- 📈 Strengthening SQL + Python for data roles  
+- 📊 Research presentations (CURE / AOM)
+- 🏗️ Analytics Engineering (dbt + SQL)
+- 📈 Production-level data projects  
+- 🤖 AI agents + RAG systems  
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ Dev Mindset
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <i>“Don’t just analyze data. Build the system that makes analysis automatic.”</i>
+</p>
 
 ---
 
-⭐ *Always building. Always improving.*
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Always building. Always improving.
+</p>
