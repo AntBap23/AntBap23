@@ -6,7 +6,8 @@
 💡 Interested in:
 - Business Intelligence & Data Analytics  
 - Analytics Engineering (dbt, SQL)  
-- Data Engineering & Scalable Data Systems  
+- Data Engineering & Scalable Data Systems
+- AI Agents & RAG Systems  
 
 ---
 
