@@ -1,112 +1,254 @@
 <h1 align="center">Anthony Baptiste</h1>
 
+<h3 align="center">
+Experimentation • Product Analytics • AI Systems
+</h3>
+
 <p align="center">
-  <i>Data • Systems • AI</i>
+Building AI-powered products, experimentation systems, and analytics that help teams make better decisions.
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Bpv9wTLKMskAAAAd/computer-nerds.gif" width="420"/>
-</p>
+<a href="https://anthony-baptiste.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge"/>
+</a>
 
----
+<a href="https://linkedin.com/in/anthony-baptiste00">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🎓 Data Analytics @ Northern Illinois University  
-📅 Graduating May 2026  
-
-I build data systems, not just dashboards.  
-Focused on turning raw data into scalable, decision-ready infrastructure.
-
----
-
-## 🌐 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-baptiste00/)  
-📧 anthonybaptiste00@gmail.com  
-
----
-
-## ⚙️ Stack
-
-**Languages**  
-Python • SQL • R • C++  
-
-**Analytics / BI**  
-Pandas • NumPy • scikit-learn • Power BI • Tableau  
-
-**Data Engineering**  
-PostgreSQL • dbt • MongoDB • Snowflake • Spark • Airflow  
-
-**Cloud / Tools**  
-GCP • Azure • Docker • FastAPI • Git  
-
----
-
-## 🚀 Work
-
-### 🧠 GenAI Research
-
-[![Research Repo](https://img.shields.io/badge/Research%20Repo-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/Qualitive-Ai-Research)  
-[![Research Platform](https://img.shields.io/badge/Research%20Platform-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/custom-gpt-interview-research)  
-
-- Co-author on research using **GenAI for qualitative interviews**
-- Built system for **AI-driven interview simulation + analysis**
-- Focus: **system dynamics + methodological augmentation**
-- Submitted to *System Dynamics Review*
-
----
-
-### 📊 Enterprise BI / Analytics Engineering
-
-[![BI Project](https://img.shields.io/badge/BI%20Project-000?style=for-the-badge&logo=github)](https://github.com/AntBap23/Enterprise_BI_Project_Repo)  
-
-- End-to-end pipeline: **ingestion → staging → marts**
-- Data modeling with **dbt + PostgreSQL**
-- Built for **BI dashboards + reporting**
-- Simulates real enterprise data workflows  
-
----
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif" width="360"/>
+<a href="mailto:anthonybaptiste00@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-## 📊 Stats
+# 👋 About Me
+
+I'm a **Digital Optimization Analyst** passionate about building products and systems that combine **analytics, experimentation, and AI**.
+
+My work focuses on understanding customer behavior, designing experiments, and building scalable analytics solutions that improve digital experiences.
+
+I'm especially interested in where Product Management, Growth, AI, and Analytics Engineering intersect.
+
+---
+
+# 🚀 Current Focus
+
+- 🧪 Digital Experimentation
+- 📈 Product Analytics
+- 🤖 AI-powered Product Experiences
+- 📊 Adobe Analytics & Customer Journey Analytics
+- ⚙️ Analytics Engineering
+- 🧠 AI Agents & Workflow Automation
+
+---
+
+# 🛠 Tech Stack
+
+## Product & Experimentation
+
+- Adobe Analytics
+- Customer Journey Analytics
+- A/B Testing
+- Experiment Design
+- Statistical Analysis
+- Product Metrics
+- Growth Analytics
+
+## Data
+
+- Python
+- SQL
+- PostgreSQL
+- dbt
+- BigQuery
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- scikit-learn
+
+## AI
+
+- OpenAI APIs
+- Claude
+- Prompt Engineering
+- AI Workflows
+- RAG
+- AI Evaluation
+- n8n
+- MCP
+
+## Development
+
+- Git
+- Docker
+- FastAPI
+- GCP
+- Azure
+
+---
+
+# ⭐ Featured Projects
+
+## 🧠 Qualitative AI Studio
+
+> AI-assisted qualitative research platform exploring how LLMs can augment interview analysis and research workflows.
+
+**Highlights**
+
+- AI interview simulation
+- Automated transcript analysis
+- Research workflow automation
+- Co-author on Generative AI research
+
+Repository
+
+https://github.com/AntBap23/Qualitative-AI-Studio
+
+---
+
+## 📊 Enterprise Analytics Engineering
+
+Modern analytics engineering project simulating enterprise retail data pipelines.
+
+Built with
+
+- dbt
+- PostgreSQL
+- Python
+- Star schema modeling
+- Analytics marts
+- BI reporting
+
+Repository
+
+https://github.com/AntBap23/Enterprise_BI_Project_Repo
+
+---
+
+## 📈 Ecommerce Experimentation
+
+End-to-end experimentation project analyzing ecommerce user behavior and business metrics.
+
+Topics include
+
+- Conversion Rate
+- Revenue
+- Statistical Testing
+- Customer Segmentation
+- Product Analytics
+
+Repository
+
+https://github.com/AntBap23/Ecommerce-Analysis
+
+---
+
+## 📦 HAVI Demand Forecasting
+
+Demand forecasting project created during the HAVI Hackathon.
+
+Focuses on
+
+- Forecasting
+- Supply Chain Analytics
+- Machine Learning
+- Business Decision Making
+
+Repository
+
+https://github.com/AntBap23/Havi-Hackathon-2026
+
+---
+
+## 🏆 NIU Data Visualization Competition
+
+🏆 First Place
+
+Interactive dashboards and storytelling using business data visualization techniques.
+
+Repository
+
+https://github.com/AntBap23/Data-Viz-Hackathon-NIU
+
+---
+
+## 🤖 QuantBeacon
+
+AI-powered market intelligence project delivering automated market insights.
+
+Repository
+
+https://github.com/AntBap23/QuantBeacon
+
+---
+
+# 💡 Interests
+
+I enjoy building projects around
+
+- Product Analytics
+- Experimentation Platforms
+- AI-powered Ecommerce
+- Growth Strategy
+- Analytics Engineering
+- Decision Intelligence
+- AI Agents
+- Automation
+
+---
+
+# 📚 Currently Learning
+
+- Adobe Analytics
+- Customer Journey Analytics
+- Product Management
+- Growth Strategy
+- AI Product Development
+- LLM Evaluation
+- Modern Analytics Engineering
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntBap23&theme=tokyonight&show_icons=true&hide_border=false"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=AntBap23&theme=tokyonight&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntBap23&theme=tokyonight&layout=compact"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AntBap23&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AntBap23&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntBap23&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🤝 Let's Connect
 
-- 📊 Research presentations (CURE / AOM)
-- 🏗️ Analytics Engineering (dbt + SQL)
-- 📈 Production-level data projects  
-- 🤖 AI agents + RAG systems  
+🌐 Portfolio
 
----
+https://anthony-baptiste.com
 
-## ✍️ Dev Mindset
+💼 LinkedIn
 
-<p align="center">
-  <i>“Don’t just analyze data. Build the system that makes analysis automatic.”</i>
-</p>
+https://linkedin.com/in/anthony-baptiste00
 
----
+📧
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+anthonybaptiste00@gmail.com
 
 ---
 
 <p align="center">
-  ⭐ Always building. Always improving.
+
+<i>
+
+"The best products aren't built by intuition alone—they're built through experimentation, analytics, and continuous learning."
+
+</i>
+
 </p>
