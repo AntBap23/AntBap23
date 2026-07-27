@@ -26,7 +26,7 @@ Building AI-powered products, experimentation systems, and analytics that help t
 
 # 👋 About Me
 
-I'm a **Digital Optimization Analyst** passionate about building products and systems that combine **analytics, experimentation, and AI**.
+I'm a **Digital Experimentation Analyst** passionate about building products and systems that combine **analytics, experimentation, and AI**.
 
 My work focuses on understanding customer behavior, designing experiments, and building scalable analytics solutions that improve digital experiences.
 
