@@ -9,7 +9,7 @@ Building AI-powered products, experimentation systems, and analytics that help t
 </p>
 
 <p align="center">
-<a href="https://anthony-baptiste.com">
+<a href="https://antbap23.github.io/career-site/about.html">
 <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge"/>
 </a>
 
