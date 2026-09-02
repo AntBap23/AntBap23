@@ -24,7 +24,7 @@ Building AI-powered products, experimentation systems, and analytics that help t
 
 ---
 
-# 👋 About Me
+# About Me
 
 I'm a **Digital Experimentation Analyst** passionate about building products and systems that combine **analytics, experimentation, and AI**.
 
@@ -34,7 +34,7 @@ I'm especially interested in where Product Management, Growth, AI, and Analytics
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
 - 🧪 Digital Experimentation
 - 📈 Product Analytics
@@ -45,7 +45,7 @@ I'm especially interested in where Product Management, Growth, AI, and Analytics
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
 ## Product & Experimentation
 
@@ -91,9 +91,9 @@ I'm especially interested in where Product Management, Growth, AI, and Analytics
 
 ---
 
-# ⭐ Featured Projects
+# Featured Projects
 
-## 🧠 Qualitative AI Studio
+## Qualitative AI Studio
 
 > AI-assisted qualitative research platform exploring how LLMs can augment interview analysis and research workflows.
 
@@ -129,7 +129,7 @@ https://github.com/AntBap23/Enterprise_BI_Project_Repo
 
 ---
 
-## 📈 Ecommerce Experimentation
+## Ecommerce Experimentation
 
 End-to-end experimentation project analyzing ecommerce user behavior and business metrics.
 
@@ -147,7 +147,7 @@ https://github.com/AntBap23/Ecommerce-Analysis
 
 ---
 
-## 📦 HAVI Demand Forecasting
+## HAVI Demand Forecasting
 
 Demand forecasting project created during the HAVI Hackathon.
 
@@ -164,7 +164,7 @@ https://github.com/AntBap23/Havi-Hackathon-2026
 
 ---
 
-## 🏆 NIU Data Visualization Competition
+## NIU Data Visualization Competition
 
 🏆 First Place
 
@@ -176,7 +176,7 @@ https://github.com/AntBap23/Data-Viz-Hackathon-NIU
 
 ---
 
-## 🤖 QuantBeacon
+## QuantBeacon
 
 AI-powered market intelligence project delivering automated market insights.
 
@@ -186,7 +186,7 @@ https://github.com/AntBap23/QuantBeacon
 
 ---
 
-# 💡 Interests
+# Interests
 
 I enjoy building projects around
 
@@ -201,7 +201,7 @@ I enjoy building projects around
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 - Adobe Analytics
 - Customer Journey Analytics
@@ -213,7 +213,7 @@ I enjoy building projects around
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -227,13 +227,13 @@ I enjoy building projects around
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
-🌐 Portfolio
+Portfolio
 
 https://anthony-baptiste.com
 
-💼 LinkedIn
+LinkedIn
 
 https://linkedin.com/in/anthony-baptiste00
 
