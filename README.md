@@ -1,254 +1,72 @@
 <h1 align="center">Anthony Baptiste</h1>
 
 <h3 align="center">
-Experimentation • Product Analytics • AI Systems
+Product • Experimentation • Analytics • AI
 </h3>
 
 <p align="center">
-Building AI-powered products, experimentation systems, and analytics that help teams make better decisions.
+Building and analyzing digital products through experimentation, product analytics, and AI.
 </p>
 
 <p align="center">
-<a href="https://antbap23.github.io/career-site/about.html">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/anthony-baptiste00">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:anthonybaptiste00@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
+<a href="https://anthony-baptiste.com">Portfolio</a> •
+<a href="https://linkedin.com/in/anthony-baptiste00">LinkedIn</a>
 </p>
 
 ---
 
-# About Me
+## About
 
-I'm a **Digital Experimentation Analyst** passionate about building products and systems that combine **analytics, experimentation, and AI**.
+I'm a product and experimentation analyst focused on using **data, experimentation, and AI to improve digital products**.
 
-My work focuses on understanding customer behavior, designing experiments, and building scalable analytics solutions that improve digital experiences.
+My work and projects focus on:
 
-I'm especially interested in where Product Management, Growth, AI, and Analytics Engineering intersect.
-
----
-
-# Current Focus
-
-- 🧪 Digital Experimentation
-- 📈 Product Analytics
-- 🤖 AI-powered Product Experiences
-- 📊 Adobe Analytics & Customer Journey Analytics
-- ⚙️ Analytics Engineering
-- 🧠 AI Agents & Workflow Automation
+* A/B testing and experimentation
+* Product and growth analytics
+* AI-powered product experiences
+* Analytics and data engineering
+* AI agents and automation
 
 ---
 
-# Tech Stack
+## Tech
 
-## Product & Experimentation
+**Product & Experimentation**
+A/B Testing • Experiment Design • Product Metrics • Adobe Analytics • Customer Journey Analytics
 
-- Adobe Analytics
-- Customer Journey Analytics
-- A/B Testing
-- Experiment Design
-- Statistical Analysis
-- Product Metrics
-- Growth Analytics
+**Data**
+Python • SQL • PostgreSQL • dbt • BigQuery • Pandas
 
-## Data
-
-- Python
-- SQL
-- PostgreSQL
-- dbt
-- BigQuery
-- Power BI
-- Tableau
-- Pandas
-- NumPy
-- scikit-learn
-
-## AI
-
-- OpenAI APIs
-- Claude
-- Prompt Engineering
-- AI Workflows
-- RAG
-- AI Evaluation
-- n8n
-- MCP
-
-## Development
-
-- Git
-- Docker
-- FastAPI
-- GCP
-- Azure
+**AI & Engineering**
+OpenAI APIs • RAG • LLM Evaluation • MCP • n8n • FastAPI • Docker • GCP
 
 ---
 
-# Featured Projects
+## Featured Work
 
-## Qualitative AI Studio
+### Ecommerce Experimentation
 
-> AI-assisted qualitative research platform exploring how LLMs can augment interview analysis and research workflows.
+End-to-end experimentation and product analytics exploring conversion, revenue, segmentation, and statistical significance.
 
-**Highlights**
+### Qualitative AI Studio
 
-- AI interview simulation
-- Automated transcript analysis
-- Research workflow automation
-- Co-author on Generative AI research
+AI-powered research system for interview simulation, transcript analysis, and qualitative insight generation.
 
-Repository
+### Enterprise Analytics Engineering
 
-https://github.com/AntBap23/Qualitative-AI-Studio
+Retail analytics pipeline using Python, PostgreSQL, dbt, dimensional modeling, and BI reporting.
 
----
+### QuantBeacon
 
-## 📊 Enterprise Analytics Engineering
+AI-powered market intelligence system for generating automated market insights.
 
-Modern analytics engineering project simulating enterprise retail data pipelines.
+### NIU Data Visualization Competition
 
-Built with
-
-- dbt
-- PostgreSQL
-- Python
-- Star schema modeling
-- Analytics marts
-- BI reporting
-
-Repository
-
-https://github.com/AntBap23/Enterprise_BI_Project_Repo
+First-place business analytics and data storytelling project.
 
 ---
 
-## Ecommerce Experimentation
+## Currently Building
 
-End-to-end experimentation project analyzing ecommerce user behavior and business metrics.
+Exploring how **experimentation systems, AI agents, product analytics, and LLM evaluation** can help teams build, measure, and improve better products.
 
-Topics include
-
-- Conversion Rate
-- Revenue
-- Statistical Testing
-- Customer Segmentation
-- Product Analytics
-
-Repository
-
-https://github.com/AntBap23/Ecommerce-Analysis
-
----
-
-## HAVI Demand Forecasting
-
-Demand forecasting project created during the HAVI Hackathon.
-
-Focuses on
-
-- Forecasting
-- Supply Chain Analytics
-- Machine Learning
-- Business Decision Making
-
-Repository
-
-https://github.com/AntBap23/Havi-Hackathon-2026
-
----
-
-## NIU Data Visualization Competition
-
-🏆 First Place
-
-Interactive dashboards and storytelling using business data visualization techniques.
-
-Repository
-
-https://github.com/AntBap23/Data-Viz-Hackathon-NIU
-
----
-
-## QuantBeacon
-
-AI-powered market intelligence project delivering automated market insights.
-
-Repository
-
-https://github.com/AntBap23/QuantBeacon
-
----
-
-# Interests
-
-I enjoy building projects around
-
-- Product Analytics
-- Experimentation Platforms
-- AI-powered Ecommerce
-- Growth Strategy
-- Analytics Engineering
-- Decision Intelligence
-- AI Agents
-- Automation
-
----
-
-# Currently Learning
-
-- Adobe Analytics
-- Customer Journey Analytics
-- Product Management
-- Growth Strategy
-- AI Product Development
-- LLM Evaluation
-- Modern Analytics Engineering
-
----
-
-# GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AntBap23&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AntBap23&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntBap23&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# Let's Connect
-
-Portfolio
-
-https://anthony-baptiste.com
-
-LinkedIn
-
-https://linkedin.com/in/anthony-baptiste00
-
-📧
-
-anthonybaptiste00@gmail.com
-
----
-
-<p align="center">
-
-<i>
-
-"The best products aren't built by intuition alone—they're built through experimentation, analytics, and continuous learning."
-
-</i>
-
-</p>
