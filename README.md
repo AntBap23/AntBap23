@@ -44,29 +44,56 @@ OpenAI APIs • RAG • LLM Evaluation • MCP • n8n • FastAPI • Docker �
 
 ## Featured Work
 
-### Ecommerce Experimentation
+### [Qualitative AI Studio](https://github.com/AntBap23/Qualitative-AI-Studio)
 
-End-to-end experimentation and product analytics exploring conversion, revenue, segmentation, and statistical significance.
+AI-assisted qualitative research platform exploring how LLMs can support interview analysis, research workflows, and insight generation.
 
-### Qualitative AI Studio
+**Focus:** AI Product Development • Qualitative Research • LLM Workflows • Research Automation
 
-AI-powered research system for interview simulation, transcript analysis, and qualitative insight generation.
+---
 
-### Enterprise Analytics Engineering
+### [Qualitative AI Research](https://github.com/AntBap23/Qualitive-AI-Research)
 
-Retail analytics pipeline using Python, PostgreSQL, dbt, dimensional modeling, and BI reporting.
+Research exploring the use of generative AI in qualitative analysis and how AI-generated insights compare with traditional research approaches.
 
-### QuantBeacon
+Awarded **Second Place** at Northern Illinois University's undergraduate research conference.
 
-AI-powered market intelligence system for generating automated market insights.
+[View Research Award](https://www.niu.edu/engaged-learning/conferences/awards/index.shtml?utm_source=chatgpt.com)
 
-### NIU Data Visualization Competition
+**Focus:** Generative AI • Research • LLM Evaluation • Data Analysis
 
-First-place business analytics and data storytelling project.
+---
+
+### [Ecommerce Experimentation](https://github.com/AntBap23/Ecommerce-Analysis)
+
+End-to-end ecommerce experimentation and product analytics project exploring conversion, revenue, customer behavior, segmentation, and statistical testing.
+
+**Focus:** A/B Testing • Product Analytics • Experiment Design • Statistical Analysis
+
+---
+
+### [HAVI Hackathon 2026](https://github.com/AntBap23/Havi-Hackathon-2026)
+
+Data and analytics solution developed under real-world business constraints during the HAVI Hackathon.
+
+Hackathon-winning project focused on applying analytics, forecasting, and business decision-making to a real operational challenge.
+
+[Read the HAVI Hackathon Article](https://cob.news.niu.edu/2026/04/17/students-perform-under-real-world-pressure-during-havi-hackathon/)
+
+**Focus:** Forecasting • Analytics • Machine Learning • Business Decision Making
+
+---
+
+### [Enterprise Analytics Engineering](https://github.com/AntBap23/Enterprise_BI_Project_Repo)
+
+Enterprise-style retail analytics pipeline using Python, PostgreSQL, dbt, dimensional modeling, analytics marts, and BI reporting.
+
+**Focus:** Analytics Engineering • Data Modeling • SQL • dbt • Business Intelligence
 
 ---
 
 ## Currently Building
 
 Exploring how **experimentation systems, AI agents, product analytics, and LLM evaluation** can help teams build, measure, and improve better products.
+
 
